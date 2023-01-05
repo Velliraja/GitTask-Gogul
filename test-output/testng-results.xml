@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="317" started-at="2022-12-28T14:02:49Z" finished-at="2022-12-28T14:02:49Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="317" started-at="2022-12-28T14:02:49Z" finished-at="2022-12-28T14:02:49Z">
+      <class name="org.TestNgParrelel.ParellelExe">
+        <test-method status="PASS" signature="s1(java.lang.String, java.lang.String)[pri:0, instance:org.TestNgParrelel.ParellelExe@31dc339b]" name="s1" duration-ms="114" started-at="2022-12-28T14:02:49Z" data-provider="log" finished-at="2022-12-28T14:02:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- s1 -->
+        <test-method status="PASS" signature="s2(java.lang.String, java.lang.String)[pri:0, instance:org.TestNgParrelel.ParellelExe@31dc339b]" name="s2" duration-ms="145" started-at="2022-12-28T14:02:49Z" data-provider="log" finished-at="2022-12-28T14:02:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- s2 -->
+        <test-method status="PASS" signature="s3(java.lang.String, java.lang.String)[pri:0, instance:org.TestNgParrelel.ParellelExe@31dc339b]" name="s3" duration-ms="51" started-at="2022-12-28T14:02:49Z" data-provider="log" finished-at="2022-12-28T14:02:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- s3 -->
+        <test-method status="PASS" signature="s4(java.lang.String, java.lang.String)[pri:0, instance:org.TestNgParrelel.ParellelExe@31dc339b]" name="s4" duration-ms="35" started-at="2022-12-28T14:02:49Z" data-provider="log" finished-at="2022-12-28T14:02:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- s4 -->
+        <test-method status="PASS" signature="s3(java.lang.String, java.lang.String)[pri:0, instance:org.TestNgParrelel.ParellelExe@31dc339b]" name="s3" duration-ms="15" started-at="2022-12-28T14:02:49Z" data-provider="log" finished-at="2022-12-28T14:02:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username 1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password 1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- s3 -->
+        <test-method status="PASS" signature="s1(java.lang.String, java.lang.String)[pri:0, instance:org.TestNgParrelel.ParellelExe@31dc339b]" name="s1" duration-ms="16" started-at="2022-12-28T14:02:49Z" data-provider="log" finished-at="2022-12-28T14:02:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username 1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password 1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- s1 -->
+        <test-method status="PASS" signature="s4(java.lang.String, java.lang.String)[pri:0, instance:org.TestNgParrelel.ParellelExe@31dc339b]" name="s4" duration-ms="31" started-at="2022-12-28T14:02:49Z" data-provider="log" finished-at="2022-12-28T14:02:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username 1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password 1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- s4 -->
+        <test-method status="PASS" signature="s2(java.lang.String, java.lang.String)[pri:0, instance:org.TestNgParrelel.ParellelExe@31dc339b]" name="s2" duration-ms="16" started-at="2022-12-28T14:02:49Z" data-provider="log" finished-at="2022-12-28T14:02:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[username 1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password 1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- s2 -->
+      </class> <!-- org.TestNgParrelel.ParellelExe -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
